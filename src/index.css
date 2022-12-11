@@ -1,0 +1,63 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: sans-serif;
+}
+
+body{
+  text-align:center;
+  background-color: #253882;
+  color: #fff;
+}
+
+.app{
+  padding: 2rem 2rem;
+
+}
+
+h1{
+  font-size: 2.5rem;
+  margin-bottom: 1rem;
+  color: black;
+}
+
+input{
+  appearance: none;
+  outline: none;
+  border: none;
+  width: 100%;
+  height: 3rem;
+  max-width: 300px;
+  padding: .5rem 1rem;
+  border-radius: 0.5rem;
+  margin-right: 1rem;
+}
+
+button, a{
+  appearance: none;
+  outline: none;
+  border: none;
+  background: none;
+  color: #2bcb4b;
+  font-size: 1.5rem;
+  line-height: 1;
+  text-decoration: none;
+}
+
+img{
+  display: block;
+  width: 120%;
+  max-width: 480px;
+  margin: 2rem auto;
+}
+
+.generate, .download{
+  height: auto;
+  width: auto;
+
+  padding: 0.2rem 0.5rem;
+  border-radius: 0.35rem;
+  background-color: #09093b;
+  color:#fff ;
+}
