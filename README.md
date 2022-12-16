@@ -1,8 +1,5 @@
-# Qr-generator
+# [Qr-generator](https://generate-qrcode-gladiator-20.netlify.app/)
 A react app to generate Qr code for given hyperlink
-
-# Product Name
-> Short blurb about what your product does.
 
 [![NPM Version][npm-image]][npm-url]
 [![Build Status][travis-image]][travis-url]
