@@ -34,7 +34,7 @@
     <a href="https://github.com/Gladiator-20/Qr-generator"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/Gladiator-20/Qr-generator">View Demo</a>
+    <a href="https://generate-qrcode-gladiator-20.netlify.app/">View Demo</a>
     ·
     <a href="https://github.com/Gladiator-20/Qr-generator/issues">Report Bug</a>
     ·
@@ -61,12 +61,10 @@
         <li><a href="#installation">Installation</a></li>
       </ul>
     </li>
-    <li><a href="#usage">Usage</a></li>
     <li><a href="#roadmap">Roadmap</a></li>
     <li><a href="#contributing">Contributing</a></li>
     <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
-    <li><a href="#acknowledgments">Acknowledgments</a></li>
   </ol>
 </details>
 
@@ -75,11 +73,16 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[Qr_codegenerator.png](https://generate-qrcode-gladiator-20.netlify.app/)
+![alt text](https://github.com/Gladiator-20/Qr-generator/blob/master/Qr_codegenerator.png)
 
 A **QR code**(Quick Response code) is a two-dimensional barcode that can be read by a smartphone or QR code scanner. QR codes can be used to store and share information such as text, website URLs, and other data. By simply scanning the QR code with a smartphone or scanner, users can quickly and easily access the information contained within it. This can help save time and effort by eliminating the need to manually type in long web addresses or other information. In addition, QR codes can be used to make transactions, access events or tickets, and even facilitate contactless payments. Overall, QR codes help to streamline tasks and make information more easily accessible, making them a useful tool in many different settings.
 
 This web application facilitates the tansition of simple text to QR code, which intern supports quick and easy access of information.
+
+**Download: **
+For downloading the QR just click on the download button, that's it.
+
+![alt text](https://github.com/Gladiator-20/Qr-generator/blob/master/Qr_codedownload.png)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -88,6 +91,8 @@ This web application facilitates the tansition of simple text to QR code, which 
 ### Built With
 
 <!-- * [![Next][Next.js]][Next-url] -->
+* [![HTML][HTML5]][HTML-url]
+* [![CSS][CSS3]][CSS-url]
 * [![React][React.js]][React-url]
 <!-- * [![Vue][Vue.js]][Vue-url]
 * [![Angular][Angular.io]][Angular-url]
@@ -103,55 +108,42 @@ This web application facilitates the tansition of simple text to QR code, which 
 <!-- GETTING STARTED -->
 ## Getting Started
 
-This is an example of how you may give instructions on setting up your project locally.
 To get a local copy up and running follow these simple example steps.
 
 ### Prerequisites
 
-This is an example of how to list things you need to use the software and how to install them.
-* npm
-  ```sh
-  npm install npm@latest -g
+The project must have the qrcode packages to run.
+* ```
+  npm install qrcode
   ```
 
 ### Installation
 
-1. Get a free API Key at [https://example.com]([https://example.com](https://generate-qrcode-gladiator-20.netlify.app/))
-2. Clone the repo
+1. Clone the repo
    ```sh
    git clone https://github.com/gladiator-20/Qr-generator.git
    ```
-3. Install NPM packages
+2. Install NPM packages
    ```sh
    npm install
    ```
-4. Enter your API in `config.js`
+3. Install Qr code packages
    ```js
-   const API_KEY = 'ENTER YOUR API';
+   npm i qrcode
    ```
+4.  ```js
+    npm run dev
+    ```
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-
-<!-- USAGE EXAMPLES -->
-## Usage
-
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
-
-_For more examples, please refer to the [Documentation](https://example.com)_
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
 
 <!-- ROADMAP -->
 ## Roadmap
 
-- [ ] Feature 1
-- [ ] Feature 2
-- [ ] Feature 3
-    - [ ] Nested Feature
+- [Generate Qr code] Feature 1
+- [Download Qr code] Feature 2
+<!-- - [ ] Feature 3
+    - [ ] Nested Feature -->
 
 See the [open issues](https://github.com/gladiator-20/Qr-generator/issues) for a full list of proposed features (and known issues).
 
@@ -191,20 +183,20 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 Aashutosh Paroha - [@AashutoshParoha](https://twitter.com/AashutoshParoha) - aashutoshparoha98@gmail.com
 
-[Project Link:](https://github.com/gladiato-20/Qr-generator)
+[Project Link:](https://github.com/gladiator-20/Qr-generator)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 
 <!-- ACKNOWLEDGMENTS -->
-## Acknowledgments
+<!-- ## Acknowledgments
 
 * []()
 * []()
 * []()
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="#readme-top">back to top</a>)</p> -->
 
 
 
@@ -239,80 +231,7 @@ Aashutosh Paroha - [@AashutoshParoha](https://twitter.com/AashutoshParoha) - aas
 [Bootstrap-url]: https://getbootstrap.com
 [JQuery.com]: https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white
 [JQuery-url]: https://jquery.com 
-
-
-
-# [Qr-generator](https://generate-qrcode-gladiator-20.netlify.app/)
-A react app to generate Qr code for given hyperlink
-
-<!-- [![NPM Version][npm-image]][npm-url]
-[![Build Status][travis-image]][travis-url]
-[![Downloads Stats][npm-downloads]][npm-url]
-
-One to two paragraph statement about your product and what it does.
-
-![](header.png)
-
-## Installation
-
-OS X & Linux:
-
-```sh
-npm install my-crazy-module --save
-```
-
-Windows:
-
-```sh
-edit autoexec.bat
-```
-
-## Usage example
-
-A few motivating and useful examples of how your product can be used. Spice this up with code blocks and potentially more screenshots.
-
-_For more examples and usage, please refer to the [Wiki][wiki]._
-
-## Development setup
-
-Describe how to install all development dependencies and how to run an automated test-suite of some kind. Potentially do this for multiple platforms.
-
-```sh
-make install
-npm test
-```
-
-## Release History
-
-* 0.2.1
-    * CHANGE: Update docs (module code remains unchanged)
-* 0.2.0
-    * CHANGE: Remove `setDefaultXYZ()`
-    * ADD: Add `init()`
-* 0.1.1
-    * FIX: Crash when calling `baz()` (Thanks @GenerousContributorName!)
-* 0.1.0
-    * The first proper release
-    * CHANGE: Rename `foo()` to `bar()`
-* 0.0.1
-    * Work in progress
-
-## Profiles
-
-Your Name – [@YourTwitter](https://twitter.com/dbader_org) – YourEmail@example.com
-
-Distributed under the XYZ license. See ``LICENSE`` for more information.
-
-[https://github.com/yourname/github-link](https://github.com/dbader/) -->
-
-## Contributing
-
-
-
-<!-- Markdown link & img dfn's -->
-[npm-image]: https://img.shields.io/npm/v/datadog-metrics.svg?style=flat-square
-[npm-url]: https://npmjs.org/package/datadog-metrics
-[npm-downloads]: https://img.shields.io/npm/dm/datadog-metrics.svg?style=flat-square
-[travis-image]: https://img.shields.io/travis/dbader/node-datadog-metrics/master.svg?style=flat-square
-[travis-url]: https://travis-ci.org/dbader/node-datadog-metrics
-[wiki]: https://github.com/yourname/yourproject/wiki
+[HTML5]: https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white
+[HTML-url]: https://html.com
+[CSS3]: https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white
+[CSS-url]: https://www.w3.org/Style/CSS/Overview.en.html
