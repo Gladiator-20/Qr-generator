@@ -183,7 +183,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 Aashutosh Paroha - [@AashutoshParoha](https://twitter.com/AashutoshParoha) - aashutoshparoha98@gmail.com
 
-[Project Link:](https://github.com/gladiator-20/Qr-generator)
+[Project Link:](https://generate-qrcode-gladiator-20.netlify.app/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
