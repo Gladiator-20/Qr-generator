@@ -23,13 +23,13 @@
 <br />
 <div align="center">
   <a href="https://github.com/Gladiator-20/Qr-generator">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+    <img src="https://github.com/Gladiator-20/Qr-generator/blob/master/Qr_codegenerator.png" alt="Logo" width="80" height="50">
   </a>
 
 <h3 align="center">project_title</h3>
 
   <p align="center">
-    project_description
+    Qr generation simplified
     <br />
     <a href="https://github.com/Gladiator-20/Qr-generator"><strong>Explore the docs »</strong></a>
     <br />
@@ -73,14 +73,14 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-![alt text](https://github.com/Gladiator-20/Qr-generator/blob/master/Qr_codegenerator.png)
-
 A **QR code**(Quick Response code) is a two-dimensional barcode that can be read by a smartphone or QR code scanner. QR codes can be used to store and share information such as text, website URLs, and other data. By simply scanning the QR code with a smartphone or scanner, users can quickly and easily access the information contained within it. This can help save time and effort by eliminating the need to manually type in long web addresses or other information. In addition, QR codes can be used to make transactions, access events or tickets, and even facilitate contactless payments. Overall, QR codes help to streamline tasks and make information more easily accessible, making them a useful tool in many different settings.
 
+![alt text](https://github.com/Gladiator-20/Qr-generator/blob/master/Qr_codegenerator.png)
 This web application facilitates the tansition of simple text to QR code, which intern supports quick and easy access of information.
 
-**Download: **
-For downloading the QR just click on the download button, that's it.
+**Download:**
+
+For downloading the QR code just click on the download button, that's it.
 
 ![alt text](https://github.com/Gladiator-20/Qr-generator/blob/master/Qr_codedownload.png)
 
