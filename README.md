@@ -22,7 +22,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/Gladiator-20/repo_name">
+  <a href="https://github.com/Gladiator-20/Qr-generator">
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
@@ -77,7 +77,9 @@
 
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
 
-Here's a blank template to get started: To avoid retyping too much info. Do a search and replace with your text editor for the following: `github_username`, `repo_name`, `twitter_handle`, `linkedin_username`, `email_client`, `email`, `project_title`, `project_description`
+A **QR code**(Quick Response code) is a two-dimensional barcode that can be read by a smartphone or QR code scanner. QR codes can be used to store and share information such as text, website URLs, and other data. By simply scanning the QR code with a smartphone or scanner, users can quickly and easily access the information contained within it. This can help save time and effort by eliminating the need to manually type in long web addresses or other information. In addition, QR codes can be used to make transactions, access events or tickets, and even facilitate contactless payments. Overall, QR codes help to streamline tasks and make information more easily accessible, making them a useful tool in many different settings.
+
+This web application facilitates the tansition of simple text to QR code, which intern supports quick and easy access of information.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -114,7 +116,7 @@ This is an example of how to list things you need to use the software and how to
 
 ### Installation
 
-1. Get a free API Key at [https://example.com](https://example.com)
+1. Get a free API Key at [https://example.com]([https://example.com](https://generate-qrcode-gladiator-20.netlify.app/))
 2. Clone the repo
    ```sh
    git clone https://github.com/gladiator-20/Qr-generator.git
@@ -151,7 +153,7 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 - [ ] Feature 3
     - [ ] Nested Feature
 
-See the [open issues](https://github.com/github_username/repo_name/issues) for a full list of proposed features (and known issues).
+See the [open issues](https://github.com/gladiator-20/Qr-generator/issues) for a full list of proposed features (and known issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -165,11 +167,11 @@ Contributions are what make the open source community such an amazing place to l
 If you have a suggestion that would make this better, please fork the repo and create a pull request. You can also simply open an issue with the tag "enhancement".
 Don't forget to give the project a star! Thanks again!
 
-1. Fork the Project
-2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the Branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
+1. Fork it (<https://github.com/Gladiator-20/Qr-generator/fork>)
+2. Create your feature branch (`git checkout -b feature/fooBar`)
+3. Commit your changes (`git commit -am 'Add some fooBar'`)
+4. Push to the branch (`git push origin feature/fooBar`)
+5. Create a new Pull Request
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -187,9 +189,9 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@twitter_handle](https://twitter.com/twitter_handle) - email@email_client.com
+Aashutosh Paroha - [@AashutoshParoha](https://twitter.com/AashutoshParoha) - aashutoshparoha98@gmail.com
 
-Project Link: [https://github.com/github_username/repo_name](https://github.com/github_username/repo_name)
+[Project Link:](https://github.com/gladiato-20/Qr-generator)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -305,11 +307,7 @@ Distributed under the XYZ license. See ``LICENSE`` for more information.
 
 ## Contributing
 
-1. Fork it (<https://github.com/Gladiator-20/Qr-generator/fork>)
-2. Create your feature branch (`git checkout -b feature/fooBar`)
-3. Commit your changes (`git commit -am 'Add some fooBar'`)
-4. Push to the branch (`git push origin feature/fooBar`)
-5. Create a new Pull Request
+
 
 <!-- Markdown link & img dfn's -->
 [npm-image]: https://img.shields.io/npm/v/datadog-metrics.svg?style=flat-square
