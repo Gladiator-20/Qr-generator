@@ -75,7 +75,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+[Qr_codegenerator.png](https://generate-qrcode-gladiator-20.netlify.app/)
 
 A **QR code**(Quick Response code) is a two-dimensional barcode that can be read by a smartphone or QR code scanner. QR codes can be used to store and share information such as text, website URLs, and other data. By simply scanning the QR code with a smartphone or scanner, users can quickly and easily access the information contained within it. This can help save time and effort by eliminating the need to manually type in long web addresses or other information. In addition, QR codes can be used to make transactions, access events or tickets, and even facilitate contactless payments. Overall, QR codes help to streamline tasks and make information more easily accessible, making them a useful tool in many different settings.
 
